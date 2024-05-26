@@ -4,5 +4,4 @@ node_modules/
 # Ignore specific files
 .env
 note.md
-package-lock.json
-package.json
+
