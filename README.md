@@ -31,10 +31,6 @@
 
 ### :gear: Installation
 
-This project uses Npm as package manager
-```bash
-npm install
-```
 Clone the project
 ```bash
 git clone https://github.com/rendy-ptr/ejs-simple-login.git
