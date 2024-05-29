@@ -4,8 +4,6 @@
 <p>This project was created using nodeJs with the express framework and EJS view engine</p>
 
 <h4> <span> · </span> <a href="https://github.com/rendy-ptr/ejs-simple-login/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/rendy-ptr/ejs-simple-login/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/rendy-ptr/ejs-simple-login/issues"> Request Feature </a> </h4>
-
-
 </div>
 
 # :notebook_with_decorative_cover: Table of Contents
